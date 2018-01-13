@@ -1,5 +1,5 @@
 #include <cstdlib>
-#include "Tools/Main.hpp"
+#include "Main.hpp"
 
 using namespace std;
 
